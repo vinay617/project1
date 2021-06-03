@@ -1,2 +1,3 @@
-# project1
-testing project
+# jenkins-maven - project
+
+# sudo usermod -aG docker jenkins
